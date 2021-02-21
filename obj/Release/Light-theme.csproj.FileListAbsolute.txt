@@ -1,0 +1,17 @@
+D:\Source\Repos\Light-theme\bin\Release\favicon-32x32.png
+D:\Source\Repos\Light-theme\bin\Release\gpl.txt
+D:\Source\Repos\Light-theme\bin\Release\guide.txt
+D:\Source\Repos\Light-theme\bin\Release\notes.txt
+D:\Source\Repos\Light-theme\bin\Release\屏幕截图 2021-02-21 190633.jpg
+D:\Source\Repos\Light-theme\bin\Release\Light-theme.dll
+D:\Source\Repos\Light-theme\bin\Release\Light-theme.pdb
+D:\Source\Repos\Light-theme\bin\Release\Light-theme.vsix
+D:\Source\Repos\Light-theme\bin\Release\extension.vsixmanifest
+D:\Source\Repos\Light-theme\obj\Release\_EmptyResource.resources
+D:\Source\Repos\Light-theme\obj\Release\Light-theme.csproj.GenerateResource.cache
+D:\Source\Repos\Light-theme\obj\Release\Light-theme.csproj.CoreCompileInputs.cache
+D:\Source\Repos\Light-theme\obj\Release\Light-theme.dll
+D:\Source\Repos\Light-theme\obj\Release\Light-theme.pdb
+D:\Source\Repos\Light-theme\obj\Release\extension.vsixmanifest
+D:\Source\Repos\Light-theme\obj\Release\files.json
+D:\Source\Repos\Light-theme\obj\Release\createTemplateManifests.cache

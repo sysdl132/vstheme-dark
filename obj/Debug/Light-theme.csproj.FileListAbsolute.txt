@@ -1,0 +1,18 @@
+D:\Source\Repos\Light-theme\bin\Debug\Light-theme.dll
+D:\Source\Repos\Light-theme\bin\Debug\Light-theme.pdb
+D:\Source\Repos\Light-theme\bin\Debug\Light-theme.vsix
+D:\Source\Repos\Light-theme\bin\Debug\extension.vsixmanifest
+D:\Source\Repos\Light-theme\obj\Debug\Light-theme.csprojAssemblyReference.cache
+D:\Source\Repos\Light-theme\obj\Debug\_EmptyResource.resources
+D:\Source\Repos\Light-theme\obj\Debug\Light-theme.csproj.GenerateResource.cache
+D:\Source\Repos\Light-theme\obj\Debug\Light-theme.csproj.CoreCompileInputs.cache
+D:\Source\Repos\Light-theme\obj\Debug\Light-theme.dll
+D:\Source\Repos\Light-theme\obj\Debug\Light-theme.pdb
+D:\Source\Repos\Light-theme\obj\Debug\extension.vsixmanifest
+D:\Source\Repos\Light-theme\obj\Debug\files.json
+D:\Source\Repos\Light-theme\obj\Debug\createTemplateManifests.cache
+D:\Source\Repos\Light-theme\bin\Debug\favicon-32x32.png
+D:\Source\Repos\Light-theme\bin\Debug\gpl.txt
+D:\Source\Repos\Light-theme\bin\Debug\guide.txt
+D:\Source\Repos\Light-theme\bin\Debug\notes.txt
+D:\Source\Repos\Light-theme\bin\Debug\屏幕截图 2021-02-21 190633.jpg

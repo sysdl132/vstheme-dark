@@ -1,6 +1,6 @@
 <PackageManifest Version="2.0.0" xmlns="http://schemas.microsoft.com/developer/vsx-schema/2011">
   <Metadata>
-    <Identity Id="Darkey.e1e706e2-05d3-4da9-8754-652cd8ab65f4" Version="1.0" Language="en-US" Publisher="sysdl132" />
+    <Identity Id="Darkey.e1e706e2-05d3-4da9-8754-652cd8ab65f4" Version="1.0.1" Language="en-US" Publisher="sysdl132" />
     <DisplayName>Darkey</DisplayName>
     <Description xml:space="preserve">A dark theme.</Description>
     <MoreInfo>https://github.com/sysdl132</MoreInfo>
@@ -10,7 +10,7 @@
     <Icon>favicon-32x32.png</Icon>
     <PreviewImage>屏幕截图 2021-02-21 190633.jpg</PreviewImage>
   </Metadata>
-  <Installation>
+  <Installation AllUsers="true">
     <InstallationTarget Id="Microsoft.VisualStudio.Community" Version="[16.0, 17.0)" />
   </Installation>
   <Dependencies>

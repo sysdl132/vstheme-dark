@@ -1,5 +1,5 @@
 ﻿<Themes>
-  <Theme Name="Light-theme" GUID="{19185a7b-7be4-4071-89ca-aef116ef5a83}" BaseGUID="{1a5feb04-7960-43f4-9b90-f7b0e32ffb6a}">
+  <Theme Name="Light-theme (1)" GUID="{da7c68d9-1425-4792-bbd0-cd54244e42ca}" BaseGUID="{1a5feb04-7960-43f4-9b90-f7b0e32ffb6a}">
     <Category Name="ACDCOverview" GUID="{c8887ac6-3c60-4209-9d69-8f4c12a60044}">
       <Color Name="Body">
         <Background Type="CT_RAW" Source="FF23292E" />
@@ -5109,7 +5109,7 @@
         <Background Type="CT_RAW" Source="FFF30506" />
       </Color>
       <Color Name="MainWindowInactiveBorder">
-        <Background Type="CT_RAW" Source="FF4E565E" />
+        <Background Type="CT_RAW" Source="FF23292E" />
       </Color>
       <Color Name="MainWindowActiveCaption">
         <Background Type="CT_RAW" Source="FF23292E" />
@@ -5153,7 +5153,7 @@
         <Background Type="CT_RAW" Source="FFFFFFFF" />
       </Color>
       <Color Name="MainWindowButtonDown">
-        <Background Type="CT_RAW" Source="FFB194C5" />
+        <Background Type="CT_RAW" Source="FF9A67BE" />
       </Color>
       <Color Name="MainWindowButtonDownBorder">
         <Background Type="CT_RAW" Source="FF8F8F9B" />
@@ -5163,7 +5163,7 @@
         <Foreground Type="CT_RAW" Source="FFDDDDDD" />
       </Color>
       <Color Name="MainWindowActiveNoSolutionBorder">
-        <Background Type="CT_RAW" Source="FFC13014" />
+        <Background Type="CT_RAW" Source="FF601607" />
       </Color>
       <Color Name="StatusBarBuilding">
         <Background Type="CT_RAW" Source="FF6996B1" />
@@ -5178,13 +5178,13 @@
         <Foreground Type="CT_RAW" Source="FFDDDDDD" />
       </Color>
       <Color Name="MainWindowActiveBuildingBorder">
-        <Background Type="CT_RAW" Source="FFFFA100" />
+        <Background Type="CT_RAW" Source="FF6C4708" />
       </Color>
       <Color Name="MainWindowActiveDebuggingBorder">
-        <Background Type="CT_RAW" Source="FF38CF11" />
+        <Background Type="CT_RAW" Source="FF186604" />
       </Color>
       <Color Name="MainWindowActiveDefaultBorder">
-        <Background Type="CT_RAW" Source="FF0E1A86" />
+        <Background Type="CT_RAW" Source="FF060F67" />
       </Color>
       <Color Name="MainWindowResizeGripTexture2">
         <Background Type="CT_RAW" Source="7F000000" />
